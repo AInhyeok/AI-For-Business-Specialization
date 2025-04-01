@@ -2,7 +2,7 @@
 This is AI For Business Specialization course provided by Coursera
 
 # AI For Non-Data Scientists
-## Module 1 - Big Data and Artificial Intelligence
+### Module 1 - Big Data and Artificial Intelligence
 - AI for Business Introduction
 - Course Introduction
 - Big Data Overview
@@ -17,7 +17,7 @@ This is AI For Business Specialization course provided by Coursera
 - Module 1 Slides
 - Module 1 Quiz
 
-## Module 2 - Training and Evaluating Machine Learning Algorithms
+### Module 2 - Training and Evaluating Machine Learning Algorithms
 - Specific Machine Learning Methods : A Deep Dive
 - Intro to Model Seleciton
 - Feature Engineering and Deep Learning Introduction
@@ -34,7 +34,7 @@ This is AI For Business Specialization course provided by Coursera
 - Module 2 Slides
 - Module 2 Quiz
 
-## Module 3 - ML Application and Emerging Methods
+### Module 3 - ML Application and Emerging Methods
 - Natural Language PRocessing
 - GANs and VAEs
 - Intro to AutoML
@@ -46,11 +46,11 @@ This is AI For Business Specialization course provided by Coursera
 - Module 3 Slides
 - Module 3 Quiz
 
-## Module 4 - Industry Interview
+### Module 4 - Industry Interview
 - Interview With Ed Lee
 - Module 4
 
-## Module 5 - Generative AI 
+### Module 5 - Generative AI 
 - Generative AI Overview
 - Implications of Generative AI on Work
 - Generative AI's Implication on Productivity
@@ -62,7 +62,7 @@ This is AI For Business Specialization course provided by Coursera
 - Module5 Quiz
 
 
-# AI Applications
+# AI Applications in Marketing and Finance
 
 
 # AI Strategy & Governance 
