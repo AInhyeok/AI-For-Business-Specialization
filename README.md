@@ -34,10 +34,21 @@ This is AI For Business Specialization course provided by Coursera
 - Module 2 Slides
 - Module 2 Quiz
 
-- 
+## Module 3 - ML Application and Emerging Methods
+- Natural Language PRocessing
+- GANs and VAEs
+- Intro to AutoML
+- Using AutoML
+- Teachable Machine
+- TensorFlow Playground
+- ML Operations
+- Chicken and Egg
+- Module 3 Slides
+- Module 3 Quiz
 
-## Module 3 - 
-
+## Module 4 - Industry Interview
+- Interview With Ed Lee
+- Module 4
 
 ## Module 5 - Generative AI 
 - Generative AI Overview
